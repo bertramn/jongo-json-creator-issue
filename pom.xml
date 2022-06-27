@@ -21,7 +21,7 @@
     <jackson.discovery.version>1.0.1</jackson.discovery.version>
     <jongo.version>1.4.0</jongo.version>
     <bson4jackson.version>2.9.2</bson4jackson.version>
-    <mongo.driver.version>3.11.1</mongo.driver.version>
+    <mongo.driver.version>3.11.3</mongo.driver.version>
     <junit.version>5.5.2</junit.version>
     <mockito.version>2.28.2</mockito.version>
     <mongodb.junit.version>1.1.0</mongodb.junit.version>
